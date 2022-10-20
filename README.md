@@ -1,7 +1,8 @@
-# GifGen
+# Imnaging Tools
 
-GifGen is a small, simple gif generator that takes multiple input images
-and a frame timing and outputs a gif. The display allows for display and
-then tuning of the fps to select the correct speed and then output.
+Collection of simple imaging tools in Python.
+
+### GifGen
+Generates gifs from given input images.
 
 [License](LICENSE.md)
