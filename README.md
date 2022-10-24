@@ -8,5 +8,5 @@ Generates gifs from given input images.
 Converts images to specified format.
 
 
-<br>
+
 [License](LICENSE.md)
